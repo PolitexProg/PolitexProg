@@ -1,103 +1,32 @@
-# Hi there 👋 I'm PolitexProg
+# Hi 👋, I'm PolitexProg
 
-> Your friendly neighborhood developer — building clean, reliable software and solving real-world problems.
+### A passionate Python developer
 
-[![Website](https://img.shields.io/badge/website-portfolio-blue)]()
-[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue)]()
-[![Email](https://img.shields.io/badge/email-Hello!-green)]()
-[![Status](https://img.shields.io/badge/status-Open%20to%20work-brightgreen)]()
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PolitexProg&label=Profile views&color=0e75b6&style=flat" alt="PolitexProg" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PolitexProg" alt="PolitexProg" /></a> </p>
 
-## About me
-I'm PolitexProg — a software developer passionate about building scalable applications, automating workflows, and turning ideas into production-quality code. I enjoy learning new technologies, improving developer experience, and contributing to open source.
+- 🔭 I'm currently working on **Django Libary Project**
 
-- 🔭 Currently working on: building [ProjectName]() — a short one-line description of the project.
-- 🌱 I’m learning: modern backend architectures, advanced testing strategies, and cloud optimization.
-- 👯 I’m looking to collaborate on: developer tools, automation, and developer-focused open-source libraries.
-- 💬 Ask me about: system design, refactoring large codebases, and shipping reliable features.
-- 📫 How to reach me: hello@your-email.com
-- ⚡ Fun fact: I love solving algorithm puzzles and turning them into practical utilities.
+- 🌱 I'm currently learning **C/C++, Python, Linux**
 
----
+- 🤝 I'm looking for help with **Backend and Algorithms**
 
-## Skills & Tools
-Here are some of the technologies I use regularly:
+- 📫 How to reach me **Telegram: @WelbelyDexter or Gmail: thebrayron737@gmail.com**
 
-- Languages: JavaScript / TypeScript, Python, Go, Rust
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, FastAPI, gRPC
-- Databases: PostgreSQL, MongoDB, Redis
-- Cloud & DevOps: Docker, Kubernetes, AWS (EC2, Lambda), GitHub Actions
-- Testing & QA: Jest, Pytest, Playwright
-- Others: GraphQL, REST APIs, CI/CD, observability (Prometheus, Grafana)
+- ⚡ Fun fact **I'm from Uzbekistan  👨‍💻**
 
-(Replace the list above with your top skills and tools — prioritize the ones you want to be known for.)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/PolitexProg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="PolitexProg" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
 
-## Featured Projects
-Highlight 3–6 of your best projects with a short description and what makes each special.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PolitexProg&show_icons=true&locale=en&layout=compact" alt="PolitexProg" /></p>
 
-- [ProjectOne](https://github.com/PolitexProg/ProjectOne) — One-liner about the project, the problem it solves, stack used, and the impact.
-- [ProjectTwo](https://github.com/PolitexProg/ProjectTwo) — One-liner about the project and notable achievements (e.g., >1k users, saved X hrs).
-- [ProjectThree](https://github.com/PolitexProg/ProjectThree) — One-liner about the project; mention tests, CI, or design decisions if relevant.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PolitexProg&show_icons=true&locale=en" alt="PolitexProg" /></p>
 
-Tip: For each project, include a short screenshot, demo link, or a "How it works" GIF in its repo README.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PolitexProg&" alt="PolitexProg" /></p>
 
----
-
-## Open Source & Contributions
-I contribute to open-source projects and enjoy mentoring new maintainers.
-
-- Maintainer of: [RepoA]()
-- Frequent contributor to: [RepoB]()
-- Notable PR: [Fix/perf-improvement #123](https://github.com/owner/repo/pull/123)
-
-If you want help with your project, open an issue or tag me — I’ll try to help.
-
----
-
-## How I Work
-- I write readable, test-covered code.
-- I prefer small, iterative releases with clear changelogs.
-- I document decisions and keep PR descriptions actionable.
-- I value code reviews that teach, not just critique.
-
----
-
-## Speaking & Writing
-I enjoy giving talks and writing articles about engineering and best practices.
-
-- Latest talk: "Scaling Microservices" — slide deck / video link
-- Blog: [yourblog.example.com]()
-
----
-
-## Stats & Activity
-(If you want, I can add dynamic GitHub stats cards below — just tell me and I’ll include them with your username.)
-
-
-![PolitexProg GitHub stats](https://github-readme-stats.vercel.app/api?username=PolitexProg&show_icons=true)
-
-
----
-
-## Contact & Socials
-- Email: hello@your-email.com
-- Website: https://your-website.example
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Twitter: https://twitter.com/yourhandle
-- Mastodon: @your@instance
-
-(Replace with your real links — or tell me which you'd like included.)
-
----
-
-## Want to work together?
-I’m open to opportunities and collaborations. If you have a role or project that fits, let’s chat — email me or open an issue in one of my repos.
-
----
-
-Thank you for visiting! 🚀  
-If you like what you see, star ⭐ a project or say hi — it makes my day.
