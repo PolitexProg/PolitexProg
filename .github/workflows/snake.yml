@@ -1,3 +1,4 @@
+name=.github/workflows/snake.yml url=https://github.com/PolitexProg/PolitexProg/blob/main/.github/workflows/snake.yml
 name: GitHub Snake
 
 on:
