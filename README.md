@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PolitexProg&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolitexProg&layout=compact&theme=visual_studio_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PolitexProg&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolitexProg&layout=compact&theme=visual_studio_dark&cache_seconds=86400" />
 </div>
 
 <div align="center">
