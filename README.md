@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=250&section=header&text=PolitexProg&fontSize=70&animation=fadeIn&fontAlignY=38&desc=System%20%26%20Backend%20Enthusiast&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=100&section=footer" width="100%" />
 </div>
 
 <p align="right">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdjaTJ0aXZ5aGcxdmVzMnhkb3VsbG5tYnhtdmhkMGI0ZTN4Mm83aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jlVObChD6Fb5C/giphy.gif" />
 </p>
 
-  <h1>👨‍💻 Hello, я PolitexProg!</h1>
+  <h1>👨‍💻 Hello, I PolitexProg!</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Python+Developer;Arch+Linux+(Hyprland)+User;Vim+Addict;Math+Lover;Future+C%2B%2B+Master" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 <br/>
 
 ### ⚡ Quick Info
-> *"I use Arch, btw"* 😎
+> *"I use Arch, btw"* 
 
 - 🎓 **Status:** 9th-grade student, grinding CS & Math.
 - 🛠️ **Current Stack:** Python (Django, FastAPI), diving deep into C++.
