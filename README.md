@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=100&section=footer" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWticHRncmxqYTJmY3l3MXQyYnZjaXduYjUxM3hlbHYydTY4NmM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLsUNd14gwSkSLYTcR/giphy.gif" />
 </div>
-
-<p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdjaTJ0aXZ5aGcxdmVzMnhkb3VsbG5tYnhtdmhkMGI0ZTN4Mm83aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jlVObChD6Fb5C/giphy.gif" />
-</p>
 
   <h1>👨‍💻 Hello, I PolitexProg!</h1>
   
