@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWticHRncmxqYTJmY3l3MXQyYnZjaXduYjUxM3hlbHYydTY4NmM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLsUNd14gwSkSLYTcR/giphy.gif" />
 
-  <h1>👨‍💻 Hello, I'm PolitexProg!</h1>
+  <h1>Hello, I'm PolitexProg!</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Python+Developer;Arch+Linux+(Hyprland)+User;Vim+Addict;Math+Lover;Future+C%2B%2B+Master" alt="Typing SVG" />
