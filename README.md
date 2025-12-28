@@ -3,7 +3,7 @@
 </div>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdjaTJ0aXZ5aGcxdmVzMnhkb3VsbG5tYnhtdmhkMGI0ZTN4Mm83aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jlVObChD6Fb5C/giphy.gif" />
 </p>
 
   <h1>👨‍💻 Hello, я PolitexProg!</h1>
