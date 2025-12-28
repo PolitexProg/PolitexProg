@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right" />
-  <h1>👨‍💻 Привет, я PolitexProg!</h1>
+  <h1>👨‍💻 Hello, я PolitexProg!</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Python+Developer;Arch+Linux+(Hyprland)+User;Vim+Addict;Math+Lover;Future+C%2B%2B+Master" alt="Typing SVG" />
