@@ -18,6 +18,9 @@
 - 🛠️ **Current Stack:** Python (Django, FastAPI), diving deep into C++.
 - 🖥️ **Environment:** `Arch Linux` + `Hyprland` + `LazyVim`.
 - 🎯 **2026 Goal:** Master Algorithms, conquer LeetCode, switch main to C++.
+- <div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWloMXdoeTNkcW05dTB0Ym9rcmM5eWptdm5ndTY0NW5tcWk5bHViaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iHcRqdoTI3MZO/giphy.gif width=30">
+</div>
 - 🧠 **Superpower:** Converting caffeine into code.
 
 ---
