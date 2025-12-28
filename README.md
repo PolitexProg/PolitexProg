@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=300&section=header&text=PolitexProg&fontSize=90&animation=fadeIn&fontAlignY=38&desc=System%20%26%20Backend%20Enthusiast&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=250&section=header&text=PolitexProg&fontSize=70&animation=fadeIn&fontAlignY=38&desc=System%20%26%20Backend%20Enthusiast&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right" />
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+</p>
+
   <h1>👨‍💻 Hello, я PolitexProg!</h1>
   
   <a href="https://git.io/typing-svg">
