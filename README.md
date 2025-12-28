@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWticHRncmxqYTJmY3l3MXQyYnZjaXduYjUxM3hlbHYydTY4NmM5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLsUNd14gwSkSLYTcR/giphy.gif" />
-</div>
 
-  <h1>👨‍💻 Hello, I PolitexProg!</h1>
+  <h1>👨‍💻 Hello, I'm PolitexProg!</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Python+Developer;Arch+Linux+(Hyprland)+User;Vim+Addict;Math+Lover;Future+C%2B%2B+Master" alt="Typing SVG" />
@@ -12,16 +11,12 @@
 <br/>
 
 ### ⚡ Quick Info
-> *"I use Arch, btw"* 
-
-- 🎓 **Status:** 9th-grade student, grinding CS & Math.
+> *"I use Arch, btw"* - 🎓 **Status:** 9th-grade student, grinding CS & Math.
 - 🛠️ **Current Stack:** Python (Django, FastAPI), diving deep into C++.
 - 🖥️ **Environment:** `Arch Linux` + `Hyprland` + `LazyVim`.
 - 🎯 **2026 Goal:** Master Algorithms, conquer LeetCode, switch main to C++.
-- <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWloMXdoeTNkcW05dTB0Ym9rcmM5eWptdm5ndTY0NW5tcWk5bHViaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iHcRqdoTI3MZO/giphy.gif width=30">
-</div>
 - 🧠 **Superpower:** Converting caffeine into code.
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWloMXdoeTNkcW05dTB0Ym9rcmM5eWptdm5ndTY0NW5tcWk5bHViaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iHcRqdoTI3MZO/giphy.gif" width="30" />
 
 ---
 
@@ -101,7 +96,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
+<br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PolitexProg&label=VISITORS&color=9333EA&style=flat-square" />
 </div>
