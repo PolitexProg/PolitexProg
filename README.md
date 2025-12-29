@@ -50,7 +50,7 @@
 </p>
 
 ---
-
+<div class="tenor-gif-embed" data-postid="15694512258183389098" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/akashi-akashi-seijuro-seijuro-akashi-seijuro-akashi-knb-gif-15694512258183389098">Akashi Akashi Seijuro GIF</a>from <a href="https://tenor.com/search/akashi-gifs">Akashi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 ### 📊 Performance & Activity
 
 <div align="center">
