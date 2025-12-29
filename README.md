@@ -23,12 +23,6 @@
 ### 🛠️ Tech Arsenal
 
 <div align="center">
-  <div align="center">
-  <a href="https://tenor.com/view/akashi-akashi-seijuro-seijuro-akashi-seijuro-akashi-knb-gif-15694512258183389098" target="_blank">
-    <img src="https://media.tenor.com/5VXfCbWlm9wAAAAd/akashi-seijuro-akashi.gif" alt="Akashi Seijuro GIF" width="500" />
-  </a>
-</div>
-  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,fastapi,c,cpp,linux,bash,docker,postgres,mongodb,git,neovim,vim,vscode,arch,md&theme=dark&perline=8" />
   </a>
@@ -56,9 +50,15 @@
 </p>
 
 ---
+
+### 🎮 Akashi's Vibe
 <div align="center">
-  <img href="https://tenor.com/view/akashi-akashi-seijuro-seijuro-akashi-seijuro-akashi-knb-gif-15694512258183389098">
+  <a href="https://tenor.com/view/akashi-akashi-seijuro-seijuro-akashi-seijuro-akashi-knb-gif-15694512258183389098" target="_blank">
+    <img src="https://media.tenor.com/5VXfCbWlm9wAAAAd/akashi-seijuro-akashi.gif" alt="Akashi Seijuro GIF" width="500" />
+  </a>
 </div>
+
+---
 
 ### 📊 Performance & Activity
 
