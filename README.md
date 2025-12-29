@@ -11,6 +11,7 @@
 <br/>
 
 ### ⚡ Quick Info
+![s](.assets/akashi-akashi-seijuro.gif)
 > *"I use Arch, btw"* - 🎓 **Status:** 9th-grade student, grinding CS & Math.
 - 🛠️ **Current Stack:** Python (Django, FastAPI), diving deep into C++.
 - 🖥️ **Environment:** `Arch Linux` + `Hyprland` + `LazyVim`.
@@ -50,15 +51,9 @@
 </p>
 
 ---
-
-### 🎮 Akashi's Vibe
 <div align="center">
-  <a href="https://tenor.com/view/akashi-akashi-seijuro-seijuro-akashi-seijuro-akashi-knb-gif-15694512258183389098" target="_blank">
-    <img src="https://media.tenor.com/5VXfCbWlm9wAAAAd/akashi-seijuro-akashi.gif" alt="Akashi Seijuro GIF" width="500" />
-  </a>
+  <img href="https://tenor.com/view/akashi-akashi-seijuro-seijuro-akashi-seijuro-akashi-knb-gif-15694512258183389098">
 </div>
-
----
 
 ### 📊 Performance & Activity
 
