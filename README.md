@@ -46,7 +46,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gaming-MLBB%20%7C%20PUBGM-F97316?style=for-the-badge&logo=google-play&logoColor=white" />
   <img src="https://img.shields.io/badge/Math-Addicted-blueviolet?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
 </p>
 
