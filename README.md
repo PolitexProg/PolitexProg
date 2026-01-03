@@ -12,7 +12,7 @@
 
 ### ⚡ Quick Info
 ![s](.assets/akashi-akashi-seijuro.gif)
-> *"I use Arch, btw"* - 🎓 **Status:** 9th-grade student, grinding CS & Math.
+> *"I use Arch, btw"* - 🎓 **Status:** 9th-grade student, grinding CS.
 - 🛠️ **Current Stack:** Python (Django, FastAPI), diving deep into C++.
 - 🖥️ **Environment:** `Arch Linux` + `Hyprland` + `LazyVim`.
 - 🎯 **2026 Goal:** Master Algorithms, conquer LeetCode, switch main to C++.
@@ -44,11 +44,6 @@
   <img src="https://img.shields.io/badge/WM-Hyprland-33CCFF?style=for-the-badge&logo=hyprland&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-LazyVim-89B4FA?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Math-Addicted-blueviolet?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
-</p>
-
 ---
 <div align="center">
   <img href="https://tenor.com/view/akashi-akashi-seijuro-seijuro-akashi-seijuro-akashi-knb-gif-15694512258183389098">
