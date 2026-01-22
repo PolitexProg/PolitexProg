@@ -1,7 +1,7 @@
   <h1>Hello, I'm PolitexProg or (Diyorbek)!</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Python+Developer;Arch+Linux+(Hyprland)+User;Vim+Addict;Math+Lover;Future+Go2B+Master" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Python+Developer;Arch+Linux+(Hyprland)+User;Vim+Addict;Math+Lover;Future+Go+Learner" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,7 +10,7 @@
 ### ⚡ Quick Info
 ![s](.assets/akashi-akashi-seijuro.gif)
 > *"I use Arch, btw"* - 🎓 **Status:** 9th-grade student, grinding CS.
-- 🛠️ **Current Stack:** Python (Django, FastAPI), diving deep into C++.
+- 🛠️ **Current Stack:** Python (Django, FastAPI), diving into Golang.
 - 🖥️ **Environment:** `Arch Linux` + `Hyprland` + `LazyVim`.
 - 🎯 **2026 Goal:** Master Algorithms, CodeWars, switch to CS, Golang.
 - 🧠 **Superpower:** Converting caffeine into code.
