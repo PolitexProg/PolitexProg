@@ -1,4 +1,4 @@
-  <h1>Hello, I'm PolitexProg or (Diyorbek)!</h1>
+  <h1>Hello, I'm PolitexProg</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Python+Developer;Arch+Linux+(Hyprland)+User;Vim+Addict;Math+Lover;Future+Go+Learner" alt="Typing SVG" />
@@ -12,8 +12,6 @@
 > *"I use Arch, btw"* - 🎓 **Status:** 9th-grade student, grinding CS.
 - 🛠️ **Current Stack:** Python (Django, FastAPI), diving into Golang.
 - 🖥️ **Environment:** `Arch Linux` + `Hyprland` + `LazyVim`.
-- 🎯 **2026 Goal:** Master Algorithms, CodeWars, switch to CS, Golang.
-- 🧠 **Superpower:** Converting caffeine into code.
 - 🙃 **Languages:**🇷🇺Russian, 🇺🇿Uzbek, 🇺🇸English(learning)
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWloMXdoeTNkcW05dTB0Ym9rcmM5eWptdm5ndTY0NW5tcWk5bHViaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iHcRqdoTI3MZO/giphy.gif" width="30" />
 
@@ -74,12 +72,6 @@
   </picture>
 </div>
 
----
-
-### ⏳ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
 ---
 
