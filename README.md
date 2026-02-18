@@ -14,6 +14,8 @@
 - 🖥️ **Environment:** `Arch Linux` + `Hyprland` + `LazyVim`.
 - 🙃 **Languages:**🇷🇺Russian, 🇺🇿Uzbek, 🇺🇸English(learning)
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWloMXdoeTNkcW05dTB0Ym9rcmM5eWptdm5ndTY0NW5tcWk5bHViaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iHcRqdoTI3MZO/giphy.gif" width="30" />
+---
+
 
 ---
 
