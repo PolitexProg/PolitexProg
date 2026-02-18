@@ -27,19 +27,7 @@
 
 ---
 
-### 👾 My Digital Ecosystem
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" /> 
-  <b>Running on pure Arch Power</b>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" />
-</div>
-<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WM-Hyprland-33CCFF?style=for-the-badge&logo=hyprland&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-LazyVim-89B4FA?style=for-the-badge&logo=neovim&logoColor=white" />
-</p>
 ---
 <div align="center">
   <img href="https://tenor.com/view/akashi-akashi-seijuro-seijuro-akashi-seijuro-akashi-knb-gif-15694512258183389098">
