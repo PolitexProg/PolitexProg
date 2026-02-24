@@ -10,8 +10,8 @@
 ### ⚡ Quick Info
 ![s](.assets/akashi-akashi-seijuro.gif)
 > *"I use Arch, btw"* - 🎓 **Status:** 9th-grade student, grinding CS.
-- 🛠️ **Current Stack:** Python (Django, FastAPI), diving into Golang.
-- 🖥️ **Environment:** `Arch Linux` + `Hyprland` + `LazyVim`.
+- 🛠️ **Current Stack:** Python (Django, FastAPI)
+- 🖥️ **Environment:** `Arch Linux` + `Hyprland` 
 - 🙃 **Languages:**🇷🇺Russian, 🇺🇿Uzbek, 🇺🇸English(learning)
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWloMXdoeTNkcW05dTB0Ym9rcmM5eWptdm5ndTY0NW5tcWk5bHViaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iHcRqdoTI3MZO/giphy.gif" width="30" />
 ---
@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,linux,docker,postgres,git,neovim,vscode,arch,go&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,linux,docker,postgres,git,neovim,vscode,arch&theme=dark&perline=8" />
   </a>
 </div>
 
